@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # ignore log files (this is a comment)
 # The '*' matches any text, then '.log', effectively ignoring all log files.
+=======
+# ignore log files (this is a comment)
+# The '*' matches any text, then '.log', effectively ignoring all log files.
+>>>>>>> e51f7afc81166f28524e51f6fcd93719eb515527
 *.log
